@@ -1,0 +1,24 @@
+{
+  "name": "passport-minecraft",
+  "version": "0.0.2",
+  "description": "Passport strategy for Minecraft Authentication through Microsoft",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.6",
+    "passport": "^0.5.0",
+    "passport-oauth2": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/treboryx/passport-minecraft.git"
+  },
+  "author": "treboryx <me@roberto.gr> (https://roberto.gr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/treboryx/passport-minecraft/issues"
+  },
+  "homepage": "https://github.com/treboryx/passport-minecraft#readme"
+}
