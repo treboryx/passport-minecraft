@@ -12,10 +12,10 @@ $ npm install passport-minecraft
 ## Basic Usage
 
 ```javascript
-const XboxStrategy = require("passport-minecraft").Strategy;
+const MinecraftStrategy = require("passport-minecraft").Strategy;
 
 passport.use(
-  new XboxStrategy(
+  new MinecraftStrategy(
     {
       clientID: "client-id",
       clientSecret: "secret",
