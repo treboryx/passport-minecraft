@@ -1,5 +1,7 @@
 # passport-minecraft
 
+[![NPM](https://nodei.co/npm/passport-minecraft.png)](https://nodei.co/npm/passport-minecraft/)
+
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [Xbox Live](http://xboxlive.com/) and get Minecraft Account information
 
