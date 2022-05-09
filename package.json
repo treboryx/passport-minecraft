@@ -1,6 +1,6 @@
 {
   "name": "passport-minecraft",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Passport strategy for Minecraft Authentication through Microsoft",
   "main": "lib/index.js",
   "keywords": [
